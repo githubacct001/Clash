@@ -8,8 +8,8 @@ HOST-SUFFIX, admobile.top
 HOST, admobile.oss-cn-hangzhou.aliyuncs.com
 
 # > Soul去广告
-IP-CIDR, 116.62.220.39/32
-IP-CIDR, 47.96.15.52/32
+IP-CIDR, 116.62.220.39/32, no-resolve
+IP-CIDR, 47.96.15.52/32, no-resolve
 HOST, ssp.soulapp.cn
 
 # > 讯飞广告
