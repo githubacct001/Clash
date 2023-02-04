@@ -1,0 +1,32 @@
+# > 这里对额外需要屏蔽的IP进行补充
+
+#----------杂
+HOST, couplestupidity.com
+HOST, adservice.google.com
+HOST-SUFFIX, os8.pw
+HOST-SUFFIX, admobile.top
+HOST, admobile.oss-cn-hangzhou.aliyuncs.com
+
+# > Soul去广告
+IP-CIDR, 116.62.220.39/32
+IP-CIDR, 47.96.15.52/32
+HOST, ssp.soulapp.cn
+
+# > 讯飞广告
+HOST, a-qmad.qm989.com
+
+# > 知乎去广告
+HOST, appcloud2.in.zhihu.com
+USER-AGENT, AVOS*
+
+# > cocomanhua去广告
+# @网址: www.cocomanhua.com
+HOST, xg.tjwmtrw.cn
+HOST, xc.xiyqjea.cn
+HOST, uc.sogo.shuangshiyihightgo.top
+HOST-SUFFIX, sb4you1.com
+
+# > 番号楼去广告
+# @网址: m.fanhaolou.com
+HOST, pic.xjcsk.com
+HOST, ce.fisher56.com
