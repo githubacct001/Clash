@@ -1,7 +1,7 @@
 # > 这里对额外需要直连的IP进行补充
 
 # > 内网穿透
-DOMAIN-SUFFIX,unclew.top
+DOMAIN-SUFFIX,unclew.ml
 
 # > 梦蓝字幕组（直连）
 HOST-SUFFIX,mlsub.net
