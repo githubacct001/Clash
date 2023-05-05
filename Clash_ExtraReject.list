@@ -1,11 +1,11 @@
 # > 这里对额外需要屏蔽的IP进行补充
 
 #----------杂
-HOST,couplestupidity.com
-HOST,adservice.google.com
-HOST-SUFFIX,os8.pw
-HOST-SUFFIX,admobile.top
-HOST,admobile.oss-cn-hangzhou.aliyuncs.com
+DOMAIN,couplestupidity.com
+DOMAIN,adservice.google.com
+DOMAIN-SUFFIX,os8.pw
+DOMAIN-SUFFIX,admobile.top
+DOMAIN,admobile.oss-cn-hangzhou.aliyuncs.com
 
 # > Soul去广告
 IP-CIDR,47.97.215.55/32,no-resolve
@@ -19,21 +19,21 @@ IP-CIDR,121.199.1.71/32,no-resolve
 IP-CIDR,121.199.53.196/32,no-resolve
 
 # > 讯飞广告
-HOST,a-qmad.qm989.com
+DOMAIN,a-qmad.qm989.com
 
 # > 知乎去广告
-HOST,appcloud2.in.zhihu.com
+DOMAIN,appcloud2.in.zhihu.com
 USER-AGENT,AVOS*
 
 # > cocomanhua去广告
 # @网址: www.cocomanhua.com
-HOST,xg.tjwmtrw.cn
-HOST,xc.xiyqjea.cn
-HOST,uc.sogo.shuangshiyihightgo.top
-HOST-SUFFIX,sb4you1.com
-HOST,ot.myotomyarkab.com
+DOMAIN,xg.tjwmtrw.cn
+DOMAIN,xc.xiyqjea.cn
+DOMAIN,uc.sogo.shuangshiyihightgo.top
+DOMAIN-SUFFIX,sb4you1.com
+DOMAIN,ot.myotomyarkab.com
 
 # > 番号楼去广告
 # @网址: m.fanhaolou.com
-HOST,pic.xjcsk.com
-HOST,ce.fisher56.com
+DOMAIN,pic.xjcsk.com
+DOMAIN,ce.fisher56.com
