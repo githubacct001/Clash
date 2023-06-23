@@ -1,5 +1,8 @@
 # > 这里对额外需要直连的IP进行补充
 
+# bilibili
+HOST,dataflow.biliapi.com
+
 # > 内网穿透
 DOMAIN-SUFFIX,unclew.ml
 
