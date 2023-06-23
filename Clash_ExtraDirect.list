@@ -1,7 +1,7 @@
 # > 这里对额外需要直连的IP进行补充
 
 # bilibili
-HOST,dataflow.biliapi.com
+DOMAIN,dataflow.biliapi.com
 
 # > 内网穿透
 DOMAIN-SUFFIX,unclew.ml
@@ -10,5 +10,5 @@ DOMAIN-SUFFIX,unclew.ml
 HOST-SUFFIX,mlsub.net
 
 # > QQ&微信头像显示
-HOST,q.qlogo.cn
-HOST,wx.qlogo.cn
+DOMAIN,q.qlogo.cn
+DOMAIN,wx.qlogo.cn
