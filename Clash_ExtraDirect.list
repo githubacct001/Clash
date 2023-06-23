@@ -7,7 +7,7 @@ DOMAIN,dataflow.biliapi.com
 DOMAIN-SUFFIX,unclew.ml
 
 # > 梦蓝字幕组（直连）
-HOST-SUFFIX,mlsub.net
+DOMAIN-SUFFIX,mlsub.net
 
 # > QQ&微信头像显示
 DOMAIN,q.qlogo.cn
