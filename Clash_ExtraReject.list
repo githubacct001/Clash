@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,admobile.top
 DOMAIN,admobile.oss-cn-hangzhou.aliyuncs.com
 
 # > Soul去广告
-IP-CIDR,47.97.215.55/32,no-resolve
+#IP-CIDR,47.97.215.55/32,no-resolve
 IP-CIDR,121.199.12.210/32,no-resolve
 IP-CIDR,120.27.235.201/32,no-resolve
 IP-CIDR,121.199.39.101/32,no-resolve
