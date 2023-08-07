@@ -4,7 +4,7 @@
 DOMAIN,cm.bilibili.com
 
 # > 内网穿透
-DOMAIN-SUFFIX,unclew.ml
+DOMAIN-SUFFIX,unclew.net
 
 # > 梦蓝字幕组（直连）
 DOMAIN-SUFFIX,mlsub.net
